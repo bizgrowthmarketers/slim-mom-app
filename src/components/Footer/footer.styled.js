@@ -21,14 +21,3 @@ export const FooterWrapper = styled.footer`
     }
   }
 `;
-
-export const EmText = styled.em`
-  font-style: italic;
-  color: #ffdd57;
-  transition: color 0.3s ease;
-  cursor: pointer;
-
-  &:hover {
-    color: #FC842D; /* Change to the color you want on hover */
-  }
-`;
