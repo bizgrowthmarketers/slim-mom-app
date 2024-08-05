@@ -15,7 +15,6 @@ Slim Mom is a health and fitness application developed by **Team Devbenders**. O
 - **Jovelyn Molos** - Frontend Developer
   - LinkedIn: [Jovelyn Molos](https://www.linkedin.com/in/jovelyn-molos-139100114/)
 
-
 - **Judielyn Pagente** - Frontend Developer
   - LinkedIn: [Judielyn Pagente](https://www.linkedin.com/in/judielyn-pagente-9a3127169/)
 
